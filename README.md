@@ -5,8 +5,9 @@ This repository contains the solution for **Assignment 1**, which includes:
 - An **analysis of the Traceroute protocol**
 
 ---
+I didn't upload 6.pcap file in github as it was large, we used 6.pcap file
 
-## 📂 Project Components
+##  Project Components
 
 ### **Task 1: DNS Resolver**
 - A Python-based client-server application.  
@@ -20,7 +21,7 @@ This repository contains the solution for **Assignment 1**, which includes:
 
 ---
 
-## ▶️ How to Run the DNS Resolver (Task 1)
+##  How to Run the DNS Resolver (Task 1)
 
 ### **Prerequisites**
 - Python 3  
