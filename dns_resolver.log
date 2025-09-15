@@ -1,0 +1,25 @@
+Timestamp, Query, Custom_Header, Resolved_IP
+2025-09-15 05:18:02,_apple-mobdev._tcp.local.,05180200,Not Found
+2025-09-15 05:18:02,_apple-mobdev._tcp.local.,05180201,Not Found
+2025-09-15 05:18:02,linkedin.com.,05180202,150.171.22.12
+2025-09-15 05:18:02,reddit.com.,05180203,151.101.193.140
+2025-09-15 05:18:02,facebook.com.,05180204,57.144.176.1
+2025-09-15 05:18:02,Brother MFC-7860DW._pdl-datastream._tcp.local.,05180205,Not Found
+2025-09-15 05:18:02,Brother MFC-7860DW._pdl-datastream._tcp.local.,05180206,Not Found
+2025-09-15 05:18:02,bing.com.,05180207,150.171.28.10
+2025-09-15 05:18:02,Brother MFC-7860DW._pdl-datastream._tcp.local.,05180208,Not Found
+2025-09-15 05:18:02,Brother MFC-7860DW._pdl-datastream._tcp.local.,05180209,Not Found
+2025-09-15 05:18:03,example.com.,05180210,23.192.228.80
+2025-09-15 05:18:03,_apple-mobdev._tcp.local.,05180211,Not Found
+2025-09-15 05:18:03,Brother MFC-7860DW._pdl-datastream._tcp.local.,05180212,Not Found
+2025-09-15 05:18:03,Brother MFC-7860DW._pdl-datastream._tcp.local.,05180213,Not Found
+2025-09-15 05:18:03,wikipedia.org.,05180214,103.102.166.224
+2025-09-15 05:18:03,Brother MFC-7860DW._pdl-datastream._tcp.local.,05180215,Not Found
+2025-09-15 05:18:03,Brother MFC-7860DW._pdl-datastream._tcp.local.,05180216,Not Found
+2025-09-15 05:18:03,_apple-mobdev._tcp.local.,05180217,Not Found
+2025-09-15 05:18:03,_apple-mobdev._tcp.local.,05180218,Not Found
+2025-09-15 05:18:03,Brother MFC-7860DW._pdl-datastream._tcp.local.,05180219,Not Found
+2025-09-15 05:18:04,Brother MFC-7860DW._pdl-datastream._tcp.local.,05180220,Not Found
+2025-09-15 05:18:04,github.com.,05180221,20.207.73.82
+2025-09-15 05:18:04,Brother MFC-7860DW._pdl-datastream._tcp.local.,05180222,Not Found
+2025-09-15 05:18:04,Brother MFC-7860DW._pdl-datastream._tcp.local.,05180223,Not Found
